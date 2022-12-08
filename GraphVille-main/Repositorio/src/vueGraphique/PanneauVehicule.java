@@ -71,13 +71,6 @@ public class PanneauVehicule extends JPanel implements ActionListener {
 
 		updateLabel(box.getSelectedIndex());
 
-		/*
-		 * JLabel label = new JLabel("Panamericano");
-		 * label.setForeground(Color.WHITE);
-		 * label.setPreferredSize(new Dimension(250, 100));
-		 * this.add(label);
-		 **/
-
 	}
 
 	@Override
@@ -107,5 +100,3 @@ public class PanneauVehicule extends JPanel implements ActionListener {
 	}
 
 }
-
-// EL CHOCHOCOVER
